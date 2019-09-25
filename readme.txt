@@ -1,4 +1,5 @@
-[1] This project is to detect lexical blending using similarity by 1) approximate string matching and 2) word vectors
+[1] Overview
+This project is to detect lexical blending using similarity by 1) approximate string matching and 2) word vectors
 =>> For Initial system where Jaro-Winkler similarity was used alone:
         refer to initial_system.py (replace the function in detect_blends with this code)
 ==> For the Updated system where Jaro-Winkler similarity was used with word vectors:
@@ -7,10 +8,9 @@
 
 [2] Result (UPDATED):
 >> THE NUMBER IN THE REPORT FOR ACCURACY MAY BE WRONG. 
-I put the wrong denominator for accuracy in the code previously, so just changed the denominator without changing numerator and put the number in the report.
-But that was wrong, because it also affects numerator. Will be updated soon. 
->> For some record of results, read result.txt 
->> For sample output file, read output/output_example.txt
+I put the wrong denominator for accuracy in the code previously, so just changed the denominator without changing numerator and put the number in the report. But that was wrong, because it also affects numerator. Will be updated soon. 
+>> For some record of results, read "result.txt"
+>> For sample output file, read "output/output_example.txt"
 
 
 [3] Requirement:
