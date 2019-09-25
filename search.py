@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 20 01:57:13 2019
 
-@author: hongsangy
+@author: anonymous
 """
 
 def search_startidx(flag, input, key, highlow):
@@ -25,7 +25,7 @@ def search_startidx(flag, input, key, highlow):
       try:
           test = input[mid]
       except:
-          print('error')
+          #print('error')
           return (-1,-1)
       if test >= key:    
       #if input[mid].startswith(key):          

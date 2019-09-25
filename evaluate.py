@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 20 01:55:59 2019
 
-@author: hongsangy
+@author: anonymous
 """
 
 def evaluate(fanswer, fcands):

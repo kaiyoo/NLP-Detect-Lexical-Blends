@@ -11,26 +11,27 @@ accuracy        0.3308559098537521 (5520/16684) => denominator should be 11307
 precision       0.013000795967100026 (147/11307) => denominator wrong
 recall  0.8032786885245902 (147/183)
 
-Initial System: case2>> compare whole word for cands
+Initial System: case1&case2>> compare whole word for cands
 accuracy        0.3334931671062095 (5564/16684) => denominator should be 11261
 precision       0.012965100790338337 (146/11261) => denominator wrong
 recall  0.7978142076502732 (146/183)
 time: 	5006.452823162079
 
-Initial System: case2>> compare substring of cands divided by pref and suf
+Initial System: case1&case2>> compare substring of cands divided by pref and suf
 accuracy        0.3346919204027811 (5584/16684) => denominator should be 11243
 precision       0.013074802099083875 (147/11243) => denominator wrong
 recall  0.8032786885245902 (147/183)
 time: 	3932.6521492004395
 
+preprocessing updated: # of data: 12338
 
-Updated preprocessing: # of data: 12338
+Initial System: case1&case2>>
 accuracy        0.2695396787341165 (4497/16684) => denominator should be 12338 
 precision       0.012238612416923327 (151/12338) => denominator wrong
 recall  0.825136612021858 (151/183)
 time: 	5823.3077001571655
 
-Updated preprocessing =>  # of data: 12557
+preprocessing updated  =>  # of data: 12557
 
 Updated System: case1>> 
 accuracy        0.4643625069682249 (5831/12557)
@@ -38,6 +39,7 @@ precision       0.015903401560889412 (108/6791)
 recall  0.5901639344262295 (108/183)
 time: 	8308.950823545456
 
+<<one iteration version & case1 for all of the following>>
 Updated System: only one iteration for reducing processing time 20/09/19
 accuracy        0.6350051665209443 (7989/12581)
 precision       0.01717018039556618 (79/4601)

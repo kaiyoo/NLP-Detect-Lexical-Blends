@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-author: Hongsang Yoo
+author: anonymous
 """
 import os.path
 from pyjarowinkler import distance

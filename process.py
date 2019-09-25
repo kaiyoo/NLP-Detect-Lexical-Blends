@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 20 01:54:39 2019
 
-@author: hongsangy
+@author: anonymous
 """
 import utils
 import search
@@ -34,7 +34,7 @@ def process(processed):
                     
                     if idx_pref_start == -1 or idx_suf_start == -1:
                         cnt += 1
-                        print(can)
+                        #print(can)
                     else:                                            
                         filtered_arr.append(can)
                 else:
