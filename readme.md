@@ -13,14 +13,12 @@ I put the wrong denominator for accuracy in the code previously, so just changed
 >> For sample output file, read "output/output_example.txt"
 
 
-[3] Requirement:
-I used two libraries(pyjarowinkler, gensim). To run, open terminal execute the folling command:
->> pip install pyjarowinkler
->> pip install gensim
-
->> Copy and paste in the editor and run.
->> Codes may be splitted into plural files after reviews.
-
+##[3] Requirement:
+I used two libraries(pyjarowinkler, gensim).
+```bash
+pip install pyjarowinkler
+pip install gensim
+```
 
 [4] Codes
 Dictionary was stored in dictionary in python with a key of each alphabet
