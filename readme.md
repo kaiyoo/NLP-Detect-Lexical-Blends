@@ -19,7 +19,7 @@ pip install gensim
 ```
 
 ## [4] Codes
-Dictionary was stored in dictionary in python with a key of each alphabet
+Dictionary was stored in dictionary in python with a key of each alphabet.
 Binary search was used to set start index and end index of where to find element.
 In the final code, many of original code was removed from initial system sacrificing correctness to reduce the time that is taken to run the second system below. 
 
