@@ -7,8 +7,6 @@ This project is to detect lexical blending using similarity by 1) approximate st
 
 
 ## [2] Result (UPDATED):
-*THE NUMBER IN THE REPORT FOR ACCURACY MAY BE WRONG.* 
-I put the wrong denominator for accuracy in the code previously, so just changed the denominator without changing numerator and put the number in the report. But that was wrong, because it also affects numerator.
 * For some record of results, read "result.txt"
 * For sample output file, read "output/output_example.txt"
 
