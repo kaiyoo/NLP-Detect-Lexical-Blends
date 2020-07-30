@@ -1,4 +1,8 @@
 ## [1] Overview
+This project was an assignment in Knowledge Technology taken in 2019 in the University of Melbourne.
+
+Received 18.5/20
+
 This project is to detect lexical blending using similarity by 1) approximate string matching and 2) word vectors
 * For Initial system where Jaro-Winkler similarity was used alone:
         refer to initial_system.py (replace the function in detect_blends with this code)
